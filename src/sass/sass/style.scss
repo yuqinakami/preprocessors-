@@ -1,0 +1,10 @@
+$base-color:#fff433;
+h1{
+  color:$base-color;
+  font-size:300px;
+}
+.title{
+  &_big{
+    font-size: 100px;
+  } 
+}
